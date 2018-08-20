@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukebond/demo-api"
+    "url": "https://github.com/sublimino/demo-api"
   },
   "keywords": [
     "demo",
@@ -17,9 +17,9 @@
   "author": "Luke Bond <luke.n.bond@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lukebond/demo-api/issues"
+    "url": "https://github.com/sublimino/demo-api/issues"
   },
-  "homepage": "https://github.com/lukebond/demo-api",
+  "homepage": "https://github.com/sublimino/demo-api",
   "dependencies": {
     "ip": "^0.3.1",
     "restify": "^2.8.1"
